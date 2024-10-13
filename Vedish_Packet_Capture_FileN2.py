@@ -52,5 +52,4 @@ if __name__ == "__main__":
 
 
 #This is the Fifth task assigned by Prodigy InfoTech to Vedish. Task has been completed. 
-#In order to check your password complexity, just run the code.
-#If it does not meet a requirement, it will tell you which requirement
+#In order for the code to run, follow line 1-5
